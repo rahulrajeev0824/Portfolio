@@ -7,7 +7,6 @@ Perhaps I can circle back on this another time, most like the other projects as 
 Loading Data:
 Please find and download the data from the source at:  
 https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews?select=rotten_tomatoes_movies.csv
-
 The files were too large to upload to GitHub
 
 Implementation:
