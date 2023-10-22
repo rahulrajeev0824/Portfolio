@@ -1,0 +1,1 @@
+First project to have a user feedback loop, try except blocks, and API calls. I learned a lot about how user input could possibly error out the entire function and how to get around it. The API call was given to us, but I still believe it’s a great building block for what’s to come. The code can get the weather based on user input of city, state, and country or by zip code. 
