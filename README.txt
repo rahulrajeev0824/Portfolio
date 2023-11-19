@@ -27,7 +27,7 @@ a)	Recommendation systems that uses both collaborative filtering and content-bas
 9)	Garbage Image Classification
 a)	A study of convolutional neural networks on the classification of garbage images. First use of AI enhancing for background removal.
 
-10)	TBA
-a)	Haven't decided on the final project yet
+10)	UFO Encounters
+a)	Using NLP and Time Series analysis to find trends in UFO encounters around the world!
 
 Any additional projects will be added on throughout my professional career as well, so stay tuned for those!
