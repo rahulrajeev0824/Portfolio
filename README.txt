@@ -1,4 +1,4 @@
-Welcome to my data science portfolio repository! I will be presenting ten projects I created during my master's degree that I believe showcase my skills as a data scientist.
+Welcome to my data science portfolio repository! I will be presenting ten projects I created that I believe showcase my skills as a data scientist.
 
 1)	Weather Forecast
 a)	Forecast app that uses a weather API to tell the users what the weather is based on their location.
